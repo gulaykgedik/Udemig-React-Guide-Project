@@ -17,7 +17,7 @@ Kullanıcılar kişi bilgilerini görüntüleyebilir, düzenleyebilir, arayabili
 - Modern Tasarım: Kullanıcı dostu bir arayüz.
   
 
-🚀 Kullanılan Teknolojiler
+## 🚀 Kullanılan Teknolojiler
 <br/>
 
 Projede aşağıdaki teknolojiler kullanılmıştır:
