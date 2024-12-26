@@ -7,6 +7,7 @@ Kullanıcılar kişi bilgilerini görüntüleyebilir, düzenleyebilir, arayabili
 
 ## 📋 Özellikler
 <br/>
+
 - Kişi Kartları: İsim, unvan, e-posta, telefon ve şirket bilgilerini içeren detaylı kişi kartları.
   
 - Arama Fonksiyonu: Kişileri isim, unvan ve diğer bilgilerle kolayca arayın.
@@ -18,6 +19,7 @@ Kullanıcılar kişi bilgilerini görüntüleyebilir, düzenleyebilir, arayabili
 
 🚀 Kullanılan Teknolojiler
 <br/>
+
 Projede aşağıdaki teknolojiler kullanılmıştır:
 
 - HTML5
